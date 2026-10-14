@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/banner.svg" alt="Finance Projects" width="100%"></p>
 
 <p align="center">
-  <img alt="progress" src="https://img.shields.io/badge/progress-0%2F10-2ecc8f?style=flat-square">
+  <img alt="progress" src="https://img.shields.io/badge/progress-0%2F10-9a6400?style=flat-square">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square">
 </p>
 
