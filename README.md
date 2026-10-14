@@ -13,18 +13,18 @@ Each folder is one small, self contained project that does one thing. They get h
 
 | # | Project | What it does | Language | Status |
 |:-:|---|---|:-:|:-:|
-| 01 | Loan EMI calculator | Works out the monthly payment on a loan. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | 🔜 |
-| 02 | Budget tracker CLI | Logs income and spending and shows what is left. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ⬜ |
-| 03 | Currency converter | Converts currencies with live rates from a free API. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 04 | Savings goal planner | Shows how many weeks it takes to reach a savings target. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 05 | Expense CSV analysis | Breaks spending down by category with a chart. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 06 | India vs US inflation | Charts inflation for both countries from the World Bank API. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 07 | Stock portfolio tracker | Tracks holdings and total value using classes. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ⬜ |
-| 08 | SQL on a sales database | Answers revenue questions on the Chinook sample database. | ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white) | ⬜ |
-| 09 | Bank statement categoriser | Tags each transaction with a category using simple rules. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 10 | Loan approval classifier | Predicts whether a loan gets approved. | ![ML](https://img.shields.io/badge/ML-F7931E?logo=scikitlearn&logoColor=white) | ⬜ |
+| 01 | Loan EMI calculator | Works out the monthly payment on a loan. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | **next** |
+| 02 | Budget tracker CLI | Logs income and spending and shows what is left. | ![Java](https://img.shields.io/badge/Java-14212b?style=flat-square&logo=openjdk&logoColor=f4efe3) | ⬜ |
+| 03 | Currency converter | Converts currencies with live rates from a free API. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 04 | Savings goal planner | Shows how many weeks it takes to reach a savings target. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 05 | Expense CSV analysis | Breaks spending down by category with a chart. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 06 | India vs US inflation | Charts inflation for both countries from the World Bank API. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 07 | Stock portfolio tracker | Tracks holdings and total value using classes. | ![Java](https://img.shields.io/badge/Java-14212b?style=flat-square&logo=openjdk&logoColor=f4efe3) | ⬜ |
+| 08 | SQL on a sales database | Answers revenue questions on the Chinook sample database. | ![SQL](https://img.shields.io/badge/SQL-14212b?style=flat-square&logo=sqlite&logoColor=f4efe3) | ⬜ |
+| 09 | Bank statement categoriser | Tags each transaction with a category using simple rules. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 10 | Loan approval classifier | Predicts whether a loan gets approved. | ![ML](https://img.shields.io/badge/ML-14212b?style=flat-square&logo=scikitlearn&logoColor=f4efe3) | ⬜ |
 
-✅ done &nbsp; 🔜 up next &nbsp; ⬜ planned
+✅ done &nbsp;·&nbsp; **next** up next &nbsp;·&nbsp; ⬜ planned
 
 ## Running a project
 
