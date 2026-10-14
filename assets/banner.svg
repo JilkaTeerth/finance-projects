@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a2e"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+<radialGradient id="glow" cx=".82" cy=".5" r=".5"><stop offset="0" stop-color="#2ecc8f" stop-opacity=".18"/><stop offset="1" stop-color="#2ecc8f" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/><rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+<rect x="56" y="70" width="44" height="6" rx="3" fill="#2ecc8f"/>
+<text x="56" y="110" fill="#2ecc8f" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.5">MONEY · BUDGETS · LOANS · MARKETS</text>
+<text x="54" y="172" fill="#ffffff" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800">Finance Projects</text>
+<text x="56" y="214" fill="#9aa8c4" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21">10 small projects · Python, Java, SQL and machine learning</text>
+<rect x="780" y="210" width="24" height="50" rx="4" fill="#2ecc8f" fill-opacity="0.25"/><rect x="818" y="180" width="24" height="80" rx="4" fill="#2ecc8f" fill-opacity="0.33"/><rect x="856" y="195" width="24" height="65" rx="4" fill="#2ecc8f" fill-opacity="0.40"/><rect x="894" y="150" width="24" height="110" rx="4" fill="#2ecc8f" fill-opacity="0.47"/><rect x="932" y="165" width="24" height="95" rx="4" fill="#2ecc8f" fill-opacity="0.55"/><rect x="970" y="120" width="24" height="140" rx="4" fill="#2ecc8f" fill-opacity="0.62"/><rect x="1008" y="135" width="24" height="125" rx="4" fill="#2ecc8f" fill-opacity="0.70"/><rect x="1046" y="85" width="24" height="175" rx="4" fill="#2ecc8f" fill-opacity="0.78"/><rect x="1084" y="100" width="24" height="160" rx="4" fill="#2ecc8f" fill-opacity="0.85"/><rect x="1122" y="50" width="24" height="210" rx="4" fill="#2ecc8f" fill-opacity="0.92"/>
+</svg>

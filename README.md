@@ -1,14 +1,19 @@
-# Finance Projects
+<p align="center"><img src="assets/banner.svg" alt="Finance Projects" width="100%"></p>
+
+<p align="center">
+  <img alt="progress" src="https://img.shields.io/badge/progress-0%2F10-2ecc8f?style=flat-square">
+  <img alt="license" src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square">
+</p>
 
 Personal and corporate finance tools, from calculators to a first classifier.
 
-**Progress: 0 / 10**
-
 Each folder is one small, self contained project that does one thing. They get harder as the numbers go up: first scripts, then data and charts, then Java, SQL and APIs, then a first machine learning model.
 
+## Projects
+
 | # | Project | What it does | Language | Status |
-|---|---|---|---|---|
-| 01 | Loan EMI calculator | Works out the monthly payment on a loan. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
+|:-:|---|---|:-:|:-:|
+| 01 | Loan EMI calculator | Works out the monthly payment on a loan. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | 🔜 |
 | 02 | Budget tracker CLI | Logs income and spending and shows what is left. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ⬜ |
 | 03 | Currency converter | Converts currencies with live rates from a free API. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
 | 04 | Savings goal planner | Shows how many weeks it takes to reach a savings target. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
@@ -19,8 +24,17 @@ Each folder is one small, self contained project that does one thing. They get h
 | 09 | Bank statement categoriser | Tags each transaction with a category using simple rules. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
 | 10 | Loan approval classifier | Predicts whether a loan gets approved. | ![ML](https://img.shields.io/badge/ML-F7931E?logo=scikitlearn&logoColor=white) | ⬜ |
 
+✅ done &nbsp; 🔜 up next &nbsp; ⬜ planned
+
 ## Running a project
 
-Every folder has its own README with the exact commands. Python projects use `pip install -r requirements.txt`, Java projects compile with plain `javac`.
+```bash
+git clone https://github.com/JilkaTeerth/finance-projects.git
+cd finance-projects/01-...
+```
 
-More projects: [github.com/JilkaTeerth](https://github.com/JilkaTeerth)
+Every folder has its own README with the exact commands. Python projects need `pip install -r requirements.txt`, Java projects compile with plain `javac`.
+
+---
+
+<sub>Part of a series of six project collections. See them all at [github.com/JilkaTeerth](https://github.com/JilkaTeerth).</sub>
